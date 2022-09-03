@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/burger.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=DynaPuff:wght@400;500;600;700&display=swap"
+    />
+    <title>Document</title>
+  </head>
+  <body>
+    <header>
+      <nav class="right_text">
+        <ul class="header_menu">
+          <li><a href="#"></a>news</li>
+          <li><a href="#"></a>top</li>
+          <li><a href="#"></a>burgers</li>
+          <li><a href="#"></a>contact</li>
+        </ul>
+      </nav>
+      <div class="left_text">
+        <h1>sasha pavlovski</h1>
+        <img
+          src="image/krusty borger.jpg"
+          class="img"
+          alt="clown with a hamburger"
+        />
+      </div>
+    </header>
+    <main>
+      <h2>welcome to krusty borger</h2>
+      <div class="box_video">
+        <video controls src="video/burger_video.mp4"></video>
+      </div>
+    </main>
+    <footer></footer>
+  </body>
+</html>

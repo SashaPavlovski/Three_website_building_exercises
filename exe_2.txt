@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="css/exe_2.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DynaPuff:wght@400;500;600;700&family=Poppins:ital,wght@0,400;0,500;1,400&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header>
+      <nav></nav>
+    </header>
+    <main></main>
+    <footer>
+      <div class="footer_div">
+        <div class="text_12 first">
+          <ul class="txt">
+            <li class="title">company</li>
+            <li><a href="#" class="buttom_link"></a>about</li>
+            <li><a href="#" class="buttom_link"></a>our services</li>
+            <li><a href="#" class="buttom_link"></a>privacy policy</li>
+            <li><a href="#" class="buttom_link"></a>affiliate program</li>
+          </ul>
+        </div>
+        <div class="text_12 second">
+          <ul class="txt">
+            <li class="title">get help</li>
+            <li><a href="#" class="buttom_link"></a>FQA</li>
+            <li><a href="#" class="buttom_link"></a>shipping</li>
+            <li><a href="#" class="buttom_link"></a>returns</li>
+            <li><a href="#" class="buttom_link"></a>order status</li>
+            <li><a href="#" class="buttom_link"></a>payment options</li>
+          </ul>
+        </div>
+        <div class="text_12 third">
+          <ul class="txt">
+            <li class="title">online shop</li>
+            <li><a href="#" class="buttom_link"></a>watch</li>
+            <li><a href="#" class="buttom_link"></a>xbox</li>
+            <li><a href="#" class="buttom_link"></a>games</li>
+            <li><a href="#" class="buttom_link"></a>laptop</li>
+          </ul>
+        </div>
+        <div class="text_12 fourth">
+          <ul>
+            <li class="title">follow us</li>
+          </ul>
+          <ul class="txt_1">
+            <li><a href="#" class="fa fa-facebook"></a></li>
+            <li><a href="#" class="fa fa-twitter"></a></li>
+            <li><a href="#" class="fa fa-instagram"></a></li>
+            <li><a href="#" class="fa fa-linkedin"></a></li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
